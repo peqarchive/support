@@ -1,4 +1,4 @@
 <br/>
 <p align="center">
-  <h3 align="center">Use the Issues tab or Discussions for support conversations, related to the PEQArchive. </h3>
+  <h3 align="center">Use the Discussions tab for support conversations, related to the PEQArchive. </h3>
 </p>
